@@ -1,7 +1,10 @@
 
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
-![Header](https://readme-headers.vercel.app/api?text=Welcome%20to%20My%20GitHub%20Profile!&color=blueviolet)  
+<!-- ![Header](https://readme-headers.vercel.app/api?text=Welcome%20to%20My%20GitHub%20Profile!&color=blueviolet)  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000&section=header&text=%20Hiran%20Sidharth&fontSize=50&fontAlign=center&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlign=75&descAlignY=70" alt="Hiran Sidharth"/>
+  
+</p>
 
 👋 **Hi, I'm Hiran Sidharth**  
 *Software Engineer | Corporate Trainer | Developer Mentor*  
@@ -18,9 +21,7 @@
 ---
 
 ## 🎨 Dynamic Profile Banner  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000&section=header&text=%20Hiran%20Sidharth&fontSize=50&fontAlign=center&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlign=75&descAlignY=70" alt="Hiran Sidharth"/>
-  
-</p>
+
 
 ---
 
