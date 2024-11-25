@@ -2,26 +2,18 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
 <!-- ![Header](https://readme-headers.vercel.app/api?text=Welcome%20to%20My%20GitHub%20Profile!&color=blueviolet)  -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000&section=header&text=%20Hiran%20Sidharth&fontSize=50&fontAlign=center&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlign=75&descAlignY=70" alt="Hiran Sidharth"/>
-  
+<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000px&section=header&text=%20Hiran%20Sidharth&fontSize=50&fontAlign=22&fontAlignY=40&desc=Software%20Engineer%20|%20Corporate%20Trainer%20|%20Developer%20Mentor&descAlign=68&descAlignY=70&descFontSize=3" alt="Hiran Sidharth"/>
 </p>
-
-👋 **Hi, I'm Hiran Sidharth**  
-*Software Engineer | Corporate Trainer | Developer Mentor*  
 
 ---
 
 ## 🚀 About Me  
 
-- 🛠️ Crafting **enterprise-level software** with cutting-edge tools like `.NET`, `Java`, and `React`.  
+- 🛠️ Crafting **enterprise-level software** with cutting-edge tools like `Java`,`.NET`,`SQL`,`Oracle` and `React`.  
 - 🌱 Exploring **distributed systems**, **cloud infrastructure**, and **microservices**.  
 - 🎓 Teaching and mentoring aspiring developers through workshops, bootcamps, and 1:1 sessions.  
 - ✨ Building projects that combine innovation and practical use cases.  
-
----
-
-## 🎨 Dynamic Profile Banner  
-
 
 ---
 
