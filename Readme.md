@@ -3,7 +3,7 @@
 
 <!-- ![Header](https://readme-headers.vercel.app/api?text=Welcome%20to%20My%20GitHub%20Profile!&color=blueviolet)  -->
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000px&section=header&text=%20Hiran%20Sidharth&fontSize=50&fontAlign=22&fontAlignY=40&desc=Software%20Engineer%20|%20Corporate%20Trainer%20|%20Developer%20Mentor&descAlign=68&descAlignY=70&descFontSize=3" alt="Hiran Sidharth"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000px&section=header&text=%20Hiran%20Sidharth&fontSize=50&fontAlign=22&fontAlignY=40&desc=Software%20Developer%20|%20Corporate%20Trainer%20|%20Developer%20Mentor&descAlign=68&descAlignY=70&descFontSize=3" alt="Hiran Sidharth"/>
 </p>
 
 ---
