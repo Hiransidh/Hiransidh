@@ -1,36 +1,36 @@
-# 👋 Hi, I'm Hiran Sidharth
+# 👋 Hi, I'm Hiran Sidharth!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hiran%20Sidharth&fontSize=45&fontAlignY=35&desc=Software%20Developer%20%7C%20Generative%20AI%20Developer%20%7C%20Corporate%20Trainer&descAlignY=58&descSize=16" width="100%" alt="Hiran Sidharth - Software Developer and Generative AI Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hiran%20Sidharth&fontSize=45&fontAlignY=35&desc=Software%20Developer%20%7C%20Generative%20AI%20Developer%20%7C%20Corporate%20Trainer&descAlignY=60&descSize=15" width="100%" alt="Hiran Sidharth - Software Developer and Generative AI Developer"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Hiransidh">
+    <img src="https://img.shields.io/badge/GitHub-Hiransidh-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <a href="https://www.linkedin.com/in/hiran-sidharth-4882751a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Developer and Corporate Trainer passionate about building practical software solutions and exploring the possibilities of Generative AI.
+I'm a Software Developer and Corporate Trainer passionate about building practical software solutions, exploring Generative AI, and helping aspiring developers grow their technical skills.
 
-* 💻 Building software applications using **Python, Java, Spring Boot, .NET, SQL, and React**.
-* 🤖 Exploring **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
-* 🧠 Learning to build AI applications using **LangChain, LlamaIndex, embeddings, and vector databases**.
-* 🔍 Exploring semantic search, document retrieval, and context-aware AI applications.
-* 🎓 Teaching programming, databases, and software development while mentoring aspiring developers.
-* 🚀 Interested in building intelligent applications that combine traditional software engineering with AI.
+* 💻 Developing applications using **Python, Java, Spring Boot, .NET, SQL, and React**.
+* 🤖 Exploring **Generative AI, Large Language Models (LLMs), RAG, and Agentic AI**.
+* 🧠 Learning to build LLM-powered applications using **LangChain, LlamaIndex, and vector databases**.
+* 🔍 Exploring semantic search, embeddings, document retrieval, and context-aware AI applications.
+* 🎓 Teaching programming, databases, and software development to aspiring developers.
+* 🚀 Interested in combining traditional software engineering with AI to solve real-world problems.
 
 ---
 
 ## 🤖 Generative AI & Agentic AI
 
-I'm expanding my software development skills into AI engineering, focusing on LLM-powered applications, knowledge retrieval, and AI agents.
+My focus is on understanding how to build practical AI applications that go beyond simple chatbot interactions.
 
 ### 🧠 AI Concepts
 
@@ -39,31 +39,36 @@ I'm expanding my software development skills into AI engineering, focusing on LL
 * Retrieval-Augmented Generation (RAG)
 * Vector Embeddings and Semantic Search
 * Vector Databases and Similarity Search
-* Advanced RAG Techniques
+* Advanced RAG and Retrieval Techniques
 * AI Agents and Tool Calling
 * Agentic AI Workflows
 * Multimodal Generative AI
+* HNSW Indexing and Vector Search Optimization
 
 ### 🛠️ AI Tools & Frameworks
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat-square&logoColor=white" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/ChromaDB-5B3CC4?style=flat-square&logoColor=white" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/IBM_Granite-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM Granite"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5B3CC4?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/IBM_Granite-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Granite"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
 </p>
 
-**Areas of exploration:**
+### 🔬 Areas of Exploration
 
 * Building LLM-powered applications with LangChain and LlamaIndex.
-* Using ChromaDB and FAISS for vector storage and similarity search.
-* Understanding vector indexing techniques, including HNSW.
-* Developing application interfaces with Flask and Gradio.
-* Exploring models and tools from IBM, Meta, Hugging Face, and OpenAI.
+* Creating document-based question-answering systems using RAG.
+* Generating embeddings and performing semantic similarity searches.
+* Storing and retrieving vector embeddings using ChromaDB and FAISS.
+* Exploring retrieval optimization and vector indexing techniques.
+* Developing AI agents that use tools to execute multistep tasks.
+* Building AI application interfaces with Flask and Gradio.
+* Exploring models and AI technologies from IBM, Meta, Hugging Face, and OpenAI.
 
 ---
 
@@ -71,7 +76,7 @@ I'm expanding my software development skills into AI engineering, focusing on LL
 
 ### Programming Languages
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
@@ -79,117 +84,160 @@ I'm expanding my software development skills into AI engineering, focusing on LL
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
 </p>
 
-### Backend & Frameworks
+### Frontend Development
 
-<p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### Backend Development
+
+<p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
 ### Databases
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5B3CC4?style=flat-square&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" alt="FAISS"/>
+</p>
+
+### Tools & Development Environment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ---
 
-## 🧪 AI Projects & Experiments
+## 🧪 Projects & Experiments
 
 ### 🤖 AI-Powered Data Science Assistant
 
-A hands-on AI application project completed as part of my Generative AI learning journey.
+Exploring how AI agents can interact with data analysis tools to automate common data science tasks.
 
 **Technologies:** Python, LangChain, Pandas, NumPy, scikit-learn, Matplotlib
 
-**Key areas explored:**
+**Key learning areas:**
 
-* Building tools for dataset discovery and CSV analysis.
+* Building tools for dataset exploration and CSV analysis.
 * Performing statistical analysis on datasets.
 * Integrating machine learning model training and evaluation tools.
-* Exploring AI agents that select tools and execute multistep workflows.
-* Managing conversational context, caching, and error handling.
-
-*Project work completed as part of AI coursework.*
+* Exploring agents that select tools and execute multistep workflows.
+* Understanding tool execution, error handling, and conversational context.
 
 ### 🔎 RAG & Vector Database Experiments
 
-Exploring how retrieval-based AI systems connect LLMs with external knowledge sources.
+Exploring how retrieval-based AI systems connect language models with external knowledge sources.
 
-**Technologies:** LangChain, LlamaIndex, ChromaDB, FAISS
+**Technologies:** Python, LangChain, LlamaIndex, ChromaDB, FAISS
 
-**Areas explored:**
+**Key learning areas:**
 
-* Text embeddings and semantic similarity.
-* Vector database operations.
-* Document retrieval and RAG workflows.
-* Vector indexing and retrieval optimization.
+* Understanding document ingestion and text chunking.
+* Generating and storing vector embeddings.
+* Implementing semantic search and similarity retrieval.
+* Exploring document-based question answering.
+* Understanding vector indexing and retrieval optimization.
 
-> More projects and practical experiments will be added as development progresses.
+### 💻 Full-Stack Application Development
+
+Developing software solutions that combine frontend interfaces, backend services, databases, and REST APIs.
+
+**Technologies:** Python, Java, Spring Boot, .NET, React, SQL, MongoDB
+
+**Areas of interest:**
+
+* RESTful API development.
+* Database design and optimization.
+* Authentication and application architecture.
+* Integration of AI capabilities into existing applications.
+
+> More projects, source code, and technical documentation will be featured here as repositories become available.
 
 ---
 
 ## 🎓 Learning & Certifications
 
-* **IBM RAG and Agentic AI Professional Certificate — Coursera**
-  Learning Generative AI application development, RAG, vector databases, advanced retrieval, multimodal AI, and agentic workflows.
+### IBM RAG and Agentic AI Professional Certificate
 
-* **Generative AI Application Development**
-  Hands-on learning with LangChain, prompt engineering, application development, and LLM integration.
+Currently pursuing or completing a learning path focused on building Generative AI applications and intelligent workflows.
 
-* **Vector Databases and Advanced RAG**
-  Practical exploration of embeddings, ChromaDB, FAISS, similarity search, and retrieval techniques.
+**Topics covered across the learning path include:**
+
+* Generative AI application development.
+* Retrieval-Augmented Generation (RAG).
+* Vector databases for RAG.
+* Advanced retrieval techniques.
+* Multimodal Generative AI applications.
+* Agentic AI and tool-based workflows.
+
+**Credential status:** Update this section to *Completed* once the entire professional certificate has been awarded.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiransidh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Hiran's GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiransidh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Programming Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiransidh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hiransidh/Hiransidh/output/snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Building practical LLM-powered applications.
-* Deepening my understanding of RAG architectures and retrieval pipelines.
-* Exploring AI agents, tool calling, and multistep workflows.
-* Combining Python backend development with Generative AI.
-* Developing projects that demonstrate real-world applications of AI.
+* 🚀 Building practical Generative AI applications.
+* 🧠 Deepening my understanding of RAG architectures and retrieval pipelines.
+* 🔍 Exploring embeddings, vector databases, and semantic search.
+* 🤖 Developing AI agents with tool calling and multistep workflows.
+* 🐍 Strengthening Python development for AI engineering.
+* 🔗 Integrating AI capabilities into full-stack applications.
+* 📚 Sharing knowledge through teaching, mentoring, and technical documentation.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, AI enthusiasts, and software engineers who enjoy building practical solutions and exploring emerging technologies.
+I'm always interested in connecting with software developers, AI enthusiasts, and engineers who enjoy building practical solutions and exploring emerging technologies.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Hiransidh">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/hiran-sidharth-4882751a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </p>
 
